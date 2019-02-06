@@ -24,11 +24,11 @@ int main(void) {
 
     } else if (answer == 'h') {
 
-        printf("You are high is %lf.", get_high(one, two, three, four, five));
+        printf("The high value is %lf.", get_high(one, two, three, four, five));
 
     } else if (answer == 'l') {
 
-        printf("Low is %lf.", get_low(one, two, three, four, five));
+        printf("The low value is %lf.", get_low(one, two, three, four, five));
 
     } else {
         exit(1);
