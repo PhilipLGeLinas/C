@@ -31,7 +31,9 @@ int main(void) {
         printf("The low value is %lf.", get_low(one, two, three, four, five));
 
     } else {
+        
         exit(1);
+        
     }
 
     fclose(infile);
