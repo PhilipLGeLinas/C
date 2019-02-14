@@ -7,7 +7,7 @@
 *				and keeping track of relevant information, such as the score and cash.
 */
 
-#include "functions.h"
+#include "craps.h"
 
 // Prints out the rules of the game of craps
 void print_game_rules(void) {
