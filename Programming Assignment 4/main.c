@@ -7,7 +7,7 @@
 *				and keeping track of relevant information, such as the score and cash.
 */
 
-#include "functions.h"
+#include "craps.h"
 
 int main(void) {
 
